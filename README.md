@@ -3,4 +3,12 @@
 
 ### Backend & Full Stack Developer
 
-<img src="Banner - Sky Blue.png" width="100%" />
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+<a href="https://www.linkedin.com/in/rocio-pe%C3%B1a-923980373/" target="_blank">
+  <img src="assets/img/Linkedin.png" width="85%" />
+</a>
+<a href="rociops092@gmail.com" target="_blank">
+  <img src="assets/img/Email.png" width="85%" />
+</a>
+</div>
