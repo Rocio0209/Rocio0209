@@ -47,7 +47,7 @@
 - 🤝 Abierta a colaborar en proyectos innovadores.
 
 <div align="center">
-  <img src="assets/img/gracias.png" width="70%" />
+  <img src="assets/img/gracias.png" width="50%" />
 
   <ins><i>Hecho con 🩵 por <a href="https://github.com/Rocio0209">Rocio Peña</a></i></ins>
 
