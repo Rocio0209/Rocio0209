@@ -19,7 +19,7 @@
 ### 
 
 
-<h3>💻 Lenguajes</h3>
+<h4>💻 Lenguajes</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php&perline=10" />
 
 <h3>🚀 Frameworks</h3>
