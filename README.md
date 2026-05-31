@@ -21,7 +21,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECF8FF&background=0000009B&center=true&vCenter=true&width=500&lines=%2B1+a%C3%B1o+de+experiencia"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECF8FF&background=0000009B&center=true&vCenter=true&width=600&lines=%2B1+a%C3%B1o+de+experiencia"
 />
 
 
@@ -29,7 +29,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,fastapi" />
 
-#### Databases & BI
+#### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
