@@ -37,3 +37,23 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion" />
 
+---
+### Sobre mí
+
+- ⭐ Desarrolladora Backend y Full Stack.  
+- 🎓 Egresada de Ingeniería en Desarrollo y Gestión de Software.  
+- 💼 Más de 1 año de experiencia profesional desarrollando aplicaciones web y APIs REST.  
+- ❤️ Apasionada por crear soluciones y optimizaciones.    
+- 🤝 Abierta a colaborar en proyectos innovadores.
+
+<div align="center">
+  <img src="assets/img/gracias.png" width="70%" />
+
+  <ins><i>Hecho con 🩵 por <a href="https://github.com/Rocio0209">Rocio Peña</a></i></ins>
+
+  <br><br><br><br>
+
+<sub>✨ Inspiración de diseño: <a href="https://github.com/elizabthpazp">Elizabeth Paz</a></sub>
+
+</div>
+
