@@ -14,31 +14,29 @@
 </div>
 
 <br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt1MG1neW81cWJxbnBpM2trbWRuY2Jydmx3bGRmcGUyamI5bXRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" />
+<table>
+  <tr>
+    <td width="80%">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECF8FF&background=0000009B&center=true&vCenter=true&width=600&lines=%2B1+a%C3%B1o+de+experiencia" />
+    </td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECF8FF&background=0000009B&center=true&vCenter=true&width=435&lines=%2B1+a%C3%B1o+de+experiencia)](https://git.io/typing-svg)
-### 
+    <td width="20%" align="right">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt1MG1neW81cWJxbnBpM2trbWRuY2Jydmx3bGRmcGUyamI5bXRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 
-<h4>💻 Lenguajes</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php&perline=10" />
+#### Languages & Frameworks
 
-<h3>🚀 Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=laravel,fastapi&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,fastapi" />
 
-<h3>🗄️ Bases de Datos</h3>
-<img src="https://skillicons.dev/icons?i=mysql&perline=10" />
+#### Databases & BI
 
-<p>MariaDB • MDX</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-<h3>🔄 Control de Versiones</h3>
-<img src="https://skillicons.dev/icons?i=git,github&perline=10" />
+#### Tools & Productivity
 
-<h3>🎨 Herramientas de Diseño</h3>
-<img src="https://skillicons.dev/icons?i=figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion" />
 
-<h3>💻 Herramientas de Desarrollo</h3>
-<img src="https://skillicons.dev/icons?i=vscode&perline=10" />
-
-<h3>📋 Gestión de Proyectos</h3>
-<img src="https://skillicons.dev/icons?i=notion&perline=10" />
-<p>ClickUp</p>
