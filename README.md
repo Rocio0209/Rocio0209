@@ -1,7 +1,7 @@
 ### Hola, bienvenido a mi perfil de GitHub 👋
 ## Soy Rocio 👩‍💻​
 
-### Backend & Full Stack Developer
+### Software Developer | Backend & Full Stack
 
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
